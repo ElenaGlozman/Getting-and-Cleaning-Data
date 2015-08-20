@@ -25,9 +25,7 @@ Github repository contains the following items:
 <b>Pre-requisite packages</b>
 
 •	data.table
-
 •	reshape2
-
 •	tidyr
 
 
@@ -36,6 +34,7 @@ Github repository contains the following items:
 •	Download the data file and unzip it.
 
 •	Read in 7 text files:  
+
 1.	x_train.txt
 
 2.	y_train.txt
